@@ -1,0 +1,33 @@
+"CustomJoinMessages"
+{
+	"STEAM_1:1:79870850"
+	{
+		"playerwasnamed"		"Keith"
+		"message"		"어둠의 호흡"
+	}
+	"STEAM_1:0:140974302"
+	{
+		"playerwasnamed"		"빌아재"
+		"message"		"앙기모찌"
+	}
+	"STEAM_1:0:100341102"
+	{
+		"playerwasnamed"		"[R.S] 릿카"
+	}
+	"STEAM_1:0:90577853"
+	{
+		"playerwasnamed"		"DeiLL"
+	}
+	"STEAM_1:0:235166701"
+	{
+		"playerwasnamed"		"[R.S] Suomi"
+	}
+	"STEAM_1:1:117400551"
+	{
+		"playerwasnamed"		"눈동자"
+	}
+	"STEAM_1:1:52928669"
+	{
+		"playerwasnamed"		"ヾ(⋩ ᗊ⋨)ﾉｼ"
+	}
+}
