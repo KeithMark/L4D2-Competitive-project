@@ -1,1 +1,1 @@
-# L4D2-compitive-project
+# L4D2-competitive-project
